@@ -68,28 +68,5 @@ public class Arrays02 {
         System.out.println("Ornek-2: "+ort/notlar.length);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

@@ -47,18 +47,5 @@ public class Arrays01 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
