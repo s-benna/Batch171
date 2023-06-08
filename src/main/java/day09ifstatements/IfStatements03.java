@@ -25,8 +25,7 @@ public class IfStatements03 {
 
             System.out.println("Buyuk Harf..");
 
-        } else
-            if (ch >= 'a' && ch <= 'z') {
+        } else if (ch >= 'a' && ch <= 'z') {
             System.out.println("Kucuk harf");
 
         } else {

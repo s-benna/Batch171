@@ -36,8 +36,8 @@ public class Concatination {
         System.out.println("Fiyat toplami: " + toplamFiyat);//7500
 
         //Ornek 3: Size verilen string data'yi toplayip ekran yazdirin.
-        String tv = "10000 NOK";
-        String radio = "7000 NOK";
+        String tv = "10000";
+        String radio = "7000";
         int ornek3 = Integer.valueOf(tv) + Integer.valueOf(radio);
         System.out.println("Beyaz Esya: " + ornek3);
 

@@ -27,11 +27,12 @@ public class MethodCreation01 {
         System.out.println(carpmaSonucu);
         System.out.println( firstTwoMultiplyThirdAdd(2,3,4));
 
-    }
+    }//main
+
     //Ornek 1: toplama islemi yapan bir method olusturunuz
-    public static int toplamaYap(int a, int b){//bu kisimda method kapsaminda kullanilmasini ve islenmesini istedigim datalari deklare ediyoruz
-        return a+b;
-        //return demek bu methodun cagrildigi yere bu degeri return et demek
+    public static int toplamaYap(int a, int b){// Bu kisimda method kapsaminda kullanilmasini ve islenmesini istedigim datalari deklare ediyoruz
+        return a+b;                            // Return demek bu methodun cagrildigi yere bu degeri return et demek
+
     }
     //main method static oldugu icin main method icinde kullanacağımız method static olmalidir
 

@@ -26,9 +26,6 @@ public class MethodCreation01 {
         int sayi =5;
         karesiniAl(sayi);
 
-
-
-
     }//main
 
     private static void karesiniAl(int sayi) {

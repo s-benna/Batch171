@@ -3,7 +3,7 @@ package day14loops;
 public class Loops01 {
     public static void main(String[] args) {
         // Verilen bir string i ters ceviren kodu yaziniz
-        //"Java" ==> "avaJ"
+        // "Java" ==> "avaJ"
 
         //1. yol
         String t = "Java";

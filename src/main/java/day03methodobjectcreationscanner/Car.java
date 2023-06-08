@@ -2,7 +2,7 @@ package day03methodobjectcreationscanner;
 
 public class Car {
 
-    //VAriabe'lar olusturalim
+    //Variabe'lar olusturalim
 
     public String model = "Tesla";
 
